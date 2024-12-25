@@ -1,2 +1,2 @@
 # CE40417-AI
-Practical assignments for "Artificial Intelligence" course at SUT
+This repository contains practical Jupiter notebook assignments of "Artificial Intelligence" course in the Spring 2024 at Sharif University of Technology.
