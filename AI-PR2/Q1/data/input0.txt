@@ -1,0 +1,7 @@
+# Colors
+colors = 3
+# Graph:
+0,1
+1,2
+2,3
+3,0
